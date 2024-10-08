@@ -1,0 +1,22 @@
+Matematika i mehanika - modelirajmo harmonijski oscilator!
+
+Istraživački centar mladih poziva Vas na dvodnevnu radionicu matematičkog modeliranja!
+
+Cilj radionice je prikazati učenicima osnovne ideje matematičke analize i modeliranja.
+Kroz radionicu, učenici će se upoznati s pojmovima derivacije, integrala i diferencijalnih jednadžbi, pomoću kojih će modelirati harmonijski oscilator.
+
+Dobiveni model rješavat će se numerički, pomoću računala, a zatim, usporediti s već gotovim analitičkim rješenjem. Naposlijetku, dobivene rezultate potvrdit će eksperimentom.
+
+Za programski dio radionice koristit će se programski jezik Python, no osnovno poznavanje bilo kojeg programskog jezika je dovoljno.
+
+Ova radionica matematičkog modeliranja odličan je prvi korak u svijet fakultetske matematike i fizike, pri čemu će učenici dobiti temeljna predznanja korisna na širokom spektru STEM fakulteta.
+ 
+S obzirom na interaktivnu prirodu radionice, očekuje se velika razina sudjelovanja učenika.
+Ciljana grupa su učenici viših razreda srednje škole koji imaju predznanja iz programiranja, fizike i matematike, ili pak žele nešto dublju razinu razumijevanja od onog kojeg se tradicionalno uči u sklopu nastave navedenih predmeta.
+
+
+Radionica će se održati uživo, 19. i 20. listopada, od 14 do 19 sati, u prostorijama Fakulteta elektrotehnike i računarstva, Unska 3.
+Broj sudionika ograničen je na 15.
+
+Potvrdu o prijavi poslat ćemo mailom, a detalji o prijavi bit će objavljeni na stranici Istraživačkog centra mladih www.icm.hr.
+Svi materijali s radionice će biti javno dostupni na Github repozitoriju Istraživačkog centra mladih https://github.com/IstrazivackiCentarMladih
